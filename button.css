@@ -1,0 +1,23 @@
+.a input[type="submit"]{
+    width: 80px;
+    height: 30;
+    margin-top: 3px;
+    border-radius: 10px;
+    display: grid;
+    background-color: aqua;
+    font-family: "Poppins", sans-serif;
+    color: rgb(89, 56, 56);
+    margin-left: 50px;
+}
+
+.a input[value="Modifier"]:hover{
+    background-color: rgb(150, 49, 245);
+
+}
+
+.a input[value="Supprimer"]:hover{
+    background-color: rgb(212, 8, 8);
+
+}
+
+

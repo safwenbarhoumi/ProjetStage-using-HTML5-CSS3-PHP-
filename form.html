@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cycle</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="form.css">
+
+
+</head>
+
+<body>
+    <div class="container">
+        <header>Cycle</header>
+
+        <form action="insert_cycle.php" method="get">
+            <div class="form first">   
+                <div class="fields">
+                    <div class="input-field">
+                        <label>Entreprise</label>
+                        <input type="text"  name="aaa" value="Centre National de l informatique" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>N° Action</label>
+                        <input type="number" name="bbb" required >
+                    </div>
+                    
+                    <div class="inp">
+                        <input type="hidden" name="ccc" value=" " >
+                        <input type="checkbox" name="ccc" value="Crédit d impot" >
+                        
+                        <label>Crédit d'impot</label>
+                    </div>
+                    <div class="inp">
+                        <input type="hidden" name="xxx" value=" " >
+                        <input type="checkbox" name="xxx" value="Droit de tirage(individuel)" >
+                        <label>Droit de tirage(individuel)</label>
+                    </div>
+                    <div class="inp">
+                        <input type="hidden" name="yyy" value=" " >
+                        <input type="checkbox" name="yyy" value="Droit de tirage(collectif)" >
+                        
+                        <label>Droit de tirage(collectif)</label>
+                        
+                    </div>
+                    <div class="input-field">
+                        <label>Numéro de salle</label>
+                        <input type="number" name="ddd" required>
+                    </div>
+                    <div class="input-field">
+                        <label>Thème de Formation</label>
+                        <input type="text" name="eee" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>Mode de formation</label>
+                        <input type="text" name="fff" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>Lieu de déroulement</label>
+                        <input type="text" name="ggg" required>
+                    </div>
+                
+                    <div class="input-field">
+                        <label>Gouvernorat</label>
+                        <input type="text" name="hhh"  required>
+                    </div>
+
+                    <div class="inp">
+                        <label>Période du </label>
+                        <input type="date" name="iii" required>
+                        <label>Au </label>
+                        <input type="date" name="jjj" required>
+                    </div>
+
+                    <div class="inp">
+                        <label>Horaire de  </label>
+                        <input type="time" name="kkk" required>
+                        <label> à </label>
+                        <input type="time" name="lll" required>
+                    </div>  
+                    <div class="inp">
+                        <label>Pause de  </label>
+                        <input type="time" name="mmm" required>
+                        <label> à </label>
+                        <input type="time" name="nnn" required>
+                    </div>
+
+                </div>
+                <div class="buttons">
+
+                    
+                    <button class="sumbit">
+                        <span class="btnText">Confirmer</span>
+                    </button>
+                </div>
+                    
+            </div>
+                 
+            </div>
+        </form>
+    </div>
+
+    
+</body>
+</html>
