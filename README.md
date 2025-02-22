@@ -55,7 +55,7 @@ Avant d'installer et d'exécuter le projet, assurez-vous d'avoir :
 ## 2️⃣ Cloner le projet
 ```bash
 git clone https://github.com/votre-repo/projet-cni.git
-cd projet-cni
+cd ProjetStage-using-HTML5-CSS3-PHP-
 ```
 cat <<EOF > README.md
 # Configuration et Installation du Projet CNI
