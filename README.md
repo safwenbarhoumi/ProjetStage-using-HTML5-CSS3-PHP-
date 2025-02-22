@@ -27,14 +27,14 @@ L'application propose plusieurs fonctionnalités, notamment :
 
 ## Gestion des cycles de formation
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92230521/215350764-eafc3bf4-0afe-49bf-b231-c8c3d7b1efd3.png" alt="cycle" width="800"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350764-eafc3bf4-0afe-49bf-b231-c8c3d7b1efd3.png" alt="cycle" width="600"/>
 </p>
 
 ## Affichage des listes d'employés
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92230521/215350795-80ebdf4c-f1cc-4cd2-87ed-b8b2b04bfb59.png" alt="list1" width="600" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://user-images.githubusercontent.com/92230521/215350798-515edfe0-5b4b-44ca-8d47-33f4caae705d.png" alt="list2" width="600" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://user-images.githubusercontent.com/92230521/215350799-27c4d185-81af-4516-934a-1af73fcd417a.png" alt="list3" width="800" style="display:inline-block;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350795-80ebdf4c-f1cc-4cd2-87ed-b8b2b04bfb59.png" alt="list1" width="500" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350798-515edfe0-5b4b-44ca-8d47-33f4caae705d.png" alt="list2" width="500" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350799-27c4d185-81af-4516-934a-1af73fcd417a.png" alt="list3" width="500" style="display:inline-block;"/>
 </p>
 
 
