@@ -15,32 +15,32 @@ L'application propose plusieurs fonctionnalités, notamment :
 
 ## Page d'accueil
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92230521/215350736-c00e3493-1c69-4d77-bee2-41f22089fd20.png" alt="accueil" width="600"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350736-c00e3493-1c69-4d77-bee2-41f22089fd20.png" alt="accueil" width="800"/>
 </p>
 
 ## Formulaire d'ajout des utilisateurs
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92230521/215350762-3739ac48-b4e1-4035-82a3-8ff0f7823527.png" alt="form" width="400" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://user-images.githubusercontent.com/92230521/215350763-f7ceb408-a018-461b-91db-2f83377172a0.png" alt="forma" width="400" style="display:inline-block;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350762-3739ac48-b4e1-4035-82a3-8ff0f7823527.png" alt="form" width="300" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350763-f7ceb408-a018-461b-91db-2f83377172a0.png" alt="forma" width="300" style="display:inline-block;"/>
 </p>
 
 
 ## Gestion des cycles de formation
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92230521/215350764-eafc3bf4-0afe-49bf-b231-c8c3d7b1efd3.png" alt="cycle" width="400"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350764-eafc3bf4-0afe-49bf-b231-c8c3d7b1efd3.png" alt="cycle" width="800"/>
 </p>
 
 ## Affichage des listes d'employés
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92230521/215350795-80ebdf4c-f1cc-4cd2-87ed-b8b2b04bfb59.png" alt="list1" width="400" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://user-images.githubusercontent.com/92230521/215350798-515edfe0-5b4b-44ca-8d47-33f4caae705d.png" alt="list2" width="400" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://user-images.githubusercontent.com/92230521/215350799-27c4d185-81af-4516-934a-1af73fcd417a.png" alt="list3" width="400" style="display:inline-block;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350795-80ebdf4c-f1cc-4cd2-87ed-b8b2b04bfb59.png" alt="list1" width="600" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350798-515edfe0-5b4b-44ca-8d47-33f4caae705d.png" alt="list2" width="600" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350799-27c4d185-81af-4516-934a-1af73fcd417a.png" alt="list3" width="800" style="display:inline-block;"/>
 </p>
 
 
 ## Structure de la base de données
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92230521/215350812-4d605a80-91af-47ec-91ba-562ad1c733a0.png" alt="database" width="400"/>
+  <img src="https://user-images.githubusercontent.com/92230521/215350812-4d605a80-91af-47ec-91ba-562ad1c733a0.png" alt="database" width="800"/>
 </p>
 ---
 
@@ -99,8 +99,8 @@ Si vous utilisez **WAMP**, placez le projet dans le dossier `www`.
 
 Ouvrez un navigateur et entrez l'URL suivante :
 
-```arduino
-http://localhost/projet-cni/
+```
+http://127.0.0.1/
 ```
 
 ## 📌 Fonctionnalités Principales
@@ -116,6 +116,6 @@ Ce projet vise à faciliter la gestion administrative des employés du **Centre 
 
  **Prêt à l'emploi pour optimiser la gestion du personnel du CNI !** 
 
-EOF
+
 
 
